@@ -1,1 +1,3 @@
-# react-basic-structure
+# Standard
+- React + Typescript
+- ESLint
