@@ -6,3 +6,4 @@
 -   terraform
 -   AWS
 -   ansible
+-   istio
