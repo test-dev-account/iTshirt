@@ -1,3 +1,1 @@
-# Standard
-- React + Typescript
-- ESLint
+# Self-Study
