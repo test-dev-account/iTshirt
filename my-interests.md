@@ -5,5 +5,3 @@
 -   cloud
 -   terraform
 -   AWS
--   ansible
--   istio
